@@ -1,3 +1,3 @@
-## Hi I'm Julian 👋
+## Hi 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/jucallej/count.svg)
